@@ -1,0 +1,3 @@
+# Gilded Moments
+
+Project initialized.
